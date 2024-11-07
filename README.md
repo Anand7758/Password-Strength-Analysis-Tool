@@ -16,12 +16,3 @@ cd Password-Strength-Analysis-Tool
 chmod +777 password_analyzer.py
 python3 password_analyzer.py
 ```
-```bash
-cd Password-strength-analyzer
-```
-```bash
-chmod +777 password_analyzer.py
-```
-```bash
-python3 password_analyzer.py
-```
