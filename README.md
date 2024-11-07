@@ -14,5 +14,6 @@ Clone this repository and navigate to the project directory:
 git clone https://github.com/Anand7758/Password-Strength-Analysis-Tool.git
 cd Password-Strength-Analysis-Tool
 chmod +777 password_analyzer.py
+pip install colorama
 python3 password_analyzer.py
 ```
