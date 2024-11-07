@@ -11,7 +11,7 @@ A Python tool that checks the strength of a given password by analyzing length, 
 ## Installation
 Clone this repository and navigate to the project directory:
 ```bash
-https://github.com/Anand7758/Password-Strength-Analysis-Tool.git
+git clone https://github.com/Anand7758/Password-Strength-Analysis-Tool.git
 cd password-strength-analyzer
 chmod +777 password_analyzer.py
 python3 password_analyzer.py
